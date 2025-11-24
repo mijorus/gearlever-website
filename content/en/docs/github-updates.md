@@ -1,5 +1,7 @@
 ---
 title: Github Updates
+aliases:
+- "/docs/githubupdater"
 ---
-asdfdf
 
+Work in progress

@@ -5,7 +5,6 @@
 - title: Update Management
   pages:
     - title: Github Updates
-
-- title: Section 02
-  pages:
-    - title: Page 02
+    - title: Gitlab Updates
+    - title: FTP Updates
+    - title: Codeberg Updates

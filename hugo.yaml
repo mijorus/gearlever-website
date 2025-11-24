@@ -14,10 +14,6 @@ languages:
     params:
       description: AppImage Tool - Documentation
 
-# services:
-#   googleAnalytics:
-#     ID: G-XXXXXXXXXX
-
 markup:
   highlight:
     noClasses: false
@@ -52,12 +48,7 @@ params:
     buyMeACoffee: ''
     githubSponsor: ''
 
-  # algolia:
-  #   en:
-  #     container: '#site-header-search'
-  #     appId: ''
-  #     indexName: ''
-  #     apiKey: ''
+  algolia:
 
   home:
 
