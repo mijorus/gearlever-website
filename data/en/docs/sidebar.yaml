@@ -2,9 +2,9 @@
   pages:
     - title: Overview
 
-- title: Section 01
+- title: Update Management
   pages:
-    - title: Page 01
+    - title: Github Updates
 
 - title: Section 02
   pages:

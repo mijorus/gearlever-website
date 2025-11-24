@@ -29,7 +29,7 @@ params:
 
   author:
     name: Lorenzo Paderi
-    url: https://your.site
+    url: https://gearlever.mijorus.it
 
   themeColors:
     light: '#ffffff'
@@ -37,7 +37,7 @@ params:
 
   years:
     start: ''
-    present: 2023
+    present: 2025
 
   social:
     github: ''
@@ -61,7 +61,7 @@ params:
 
   home:
 
-    repository: 'your/repo'
+    repository: 'mijorus/gearlever'
 
 #    repositories:
 #      - name: Website
