@@ -4,6 +4,7 @@
 
 - title: Update Management
   pages:
+    - title: Static Updates
     - title: Github Updates
     - title: Gitlab Updates
     - title: FTP Updates

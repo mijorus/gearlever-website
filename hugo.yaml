@@ -12,7 +12,7 @@ languages:
     contentDir: content/en
     title: Gear Lever
     params:
-      description: AppImage Tool - Documentation
+      description: Documentation website
 
 markup:
   highlight:
