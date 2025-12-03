@@ -6,14 +6,6 @@
       <h1>{{ .Site.Title }}</h1>
       <h2>{{ .Site.Params.description }}</h2>
 
-      {{ with .Site.Params.home.repository }}
-        {{ partial "github-buttons" . }}
-      {{ else }}
-        {{ with .Site.Params.home.repositories }}
-          {{ partial "github-repos-grid" . }}
-        {{ end }}
-      {{ end }}
-
       <div style="margin-top: 30px;">
         <a href="https://flathub.org/apps/it.mijorus.gearlever">
           <img src="/img/flatpak-badge.png" width="200">
