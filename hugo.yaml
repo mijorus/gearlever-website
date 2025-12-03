@@ -51,7 +51,6 @@ params:
   algolia:
 
   home:
-
     repository: 'mijorus/gearlever'
 
 #    repositories:
