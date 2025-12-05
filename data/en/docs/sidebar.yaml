@@ -9,3 +9,7 @@
     - title: Gitlab Updates
     - title: FTP Updates
     - title: Codeberg Updates
+
+- title: Cli
+  pages:
+    - title: Update Source

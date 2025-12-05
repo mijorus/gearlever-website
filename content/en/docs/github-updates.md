@@ -4,6 +4,8 @@ aliases:
 - "/docs/githubupdater"
 ---
 
+## Using the GUI
+
 The following shows how to configure an app to use Github as the update source, for Gear Lever 4.+.
 
 Let's use https://github.com/VSCodium/vscodium as an example.
