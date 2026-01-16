@@ -17,12 +17,12 @@ This should be the URL of the repo, without addiitonal parameters:
 
 
 ### Release file name
-This should be the name of the file from the relases tab; you can use globe (*) patterns to indicate variables
+This should be the name of the file from the relases tab; you can use glob (*) patterns to indicate variables
 in the file name.
 
 `VSCodium-*-x86_64.AppImage`
 
-Pay attention as may apps today have relases for x86_64 and arm64 platforms.
+Pay attention as many apps today have releases for both x86_64 and arm64 platforms.
 
 
 ### Allow pre-releasese
