@@ -78,3 +78,9 @@ menu:
       identifier: docs
       pre: "<i class='icon icon-book'></i>"
       weight: 2
+
+    - url: /changelog
+      name: Changelog
+      identifier: changelog
+      pre: "<i class='icon icon-toc'></i>"
+      weight: 3
