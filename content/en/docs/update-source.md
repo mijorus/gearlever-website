@@ -24,7 +24,7 @@ gearlever --list-update-managers
 ```sh
 gearlever \
 --set-update-source <file_path> \
---manager GithubeUpdater \
+--manager GithubUpdater \
   repo_url=<url> \
   repo_filename=<pattern> \
   allow_prereleases=<value> # Use 0 or 1, true or false, for boolean values
