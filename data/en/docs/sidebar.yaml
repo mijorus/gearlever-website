@@ -5,8 +5,8 @@
 - title: Update Management
   pages:
     - title: Static Updates
-    - title: Github Updates
-    - title: Gitlab Updates
+    - title: GitHub Updates
+    - title: GitLab Updates
     - title: FTP Updates
     - title: Codeberg Updates
 

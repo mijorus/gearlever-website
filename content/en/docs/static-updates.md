@@ -6,7 +6,7 @@ aliases:
 
 ### URL
 
-Link to a static url to a file, like so:
+Link to a static URL to a file, like so:
 
 `https://example.com/downloads/latest.appimage`
 
@@ -19,11 +19,11 @@ This is a valid example for the app Beeper:
 
 In order for a link to be valid, Gear Lever performs the following checks:
 
-1. The web server must support the HEAD method
-2. The server must return a `Size` header
-3. The `Size` of the new file must be different from the size of the currently instelled file, 
+1. The web server must support the HEAD method.
+2. The server must return a `Size` header.
+3. The `Size` of the new file must be different from the size of the currently installed file, 
     this is how Gear Lever determines if there is a new release or not.
-4. The `Content-Type` of the file must be one of the followings:
+4. The `Content-Type` of the file must be one of the following:
 
 ```
 application/x-iso9660-appimage
