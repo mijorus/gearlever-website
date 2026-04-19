@@ -4,7 +4,7 @@ aliases:
 - "/docs/gitlabupdater"
 ---
 The following shows how to configure an app to use Gitlab as the update source, for Gear Lever 4.+.
-Please not that **custom Gitlab instances are not supported** fot the time being.
+Please note that **custom Gitlab instances are supported** fot the time being.
 
 Let's use https://gitlab.com/librewolf-community/browser/appimage as an example.
 
