@@ -8,10 +8,10 @@ The following shows how to configure an app to use Codeberg as the update source
 
 Let's use https://codeberg.org/sonusmix/sonusmix as an example.
 
-### Repo URL
-This should be the URL of the repo, without addiitonal parameters:
+### Repo
+This should be a string in the form of username/repo on Codeberg, without addiitonal parameters:
 
-`https://codeberg.org/sonusmix/sonusmix`
+`sonusmix/sonusmix`
 
 
 ### Release file name
