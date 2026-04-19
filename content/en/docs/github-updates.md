@@ -10,10 +10,10 @@ The following shows how to configure an app to use Github as the update source, 
 
 Let's use https://github.com/VSCodium/vscodium as an example.
 
-### Repo URL
-This should be the URL of the repo, without addiitonal parameters:
+### Repo
+This should be a string in the form of username/repo on GitHub, without addiitonal parameters:
 
-`https://github.com/VSCodium/vscodium`
+`VSCodium/vscodium`
 
 
 ### Release file name
